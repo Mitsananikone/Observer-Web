@@ -1,0 +1,15 @@
+"use client";
+
+
+
+
+export default function Consultation() {
+    return(
+        <div className="container">
+        <div className="flex items-center justify-center h-full w-full temptitle">
+            BOOK CONSULTATION PAGE
+        </div>
+     </div>
+
+    );
+}
