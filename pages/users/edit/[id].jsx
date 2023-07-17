@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 
 import { Layout, AddEdit } from 'components/users';
 import { Spinner } from 'components';
-import { userService, alertService } from 'services';
+// import { userService, alertService } from 'services';
 
 export default Edit;
 

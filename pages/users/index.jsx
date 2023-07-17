@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 
 import { Spinner } from "components";
 import { Layout } from "components/users";
-import { userService } from "services";
+// import { userService } from "services";
 
 export default Index;
 
